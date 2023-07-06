@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Đình Thắng",
+        "tel":"0865198615",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Việt",
+        "tel":"09012345678",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Hoài Thu",
+        "tel":"0900000090",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"Phạm An",
+        "tel":"0900233333",
+        "permission":3
+    },
+    {
+        "id":5,
+        "name":"Huỳnh Thiện",
+        "tel":"0901111090",
+        "permission":2
+    }
+]
